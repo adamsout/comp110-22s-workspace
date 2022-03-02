@@ -10,5 +10,3 @@ while i < len(user_string):
     i = i + 1
 
 print("Done!")
-
-print(not True and not True)
