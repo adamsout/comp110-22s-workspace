@@ -6,6 +6,7 @@ from lessons import helpers as hp
 # Import names defined globally
 from lessons.helpers import powerful, THE_ANSWER
 
+
 def main() -> None:
     """Entrypoint of program."""
     print(helpers.powerful(2, 4))
